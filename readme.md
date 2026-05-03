@@ -1,3 +1,3 @@
-https://wordly-spa-otruce.netlify.app/  <!--Netlify link to the webpage-->
+https://spa-wordly.netlify.app/  <!--Netlify link to the webpage-->
 
 
