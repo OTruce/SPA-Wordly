@@ -48,4 +48,7 @@ code .
 Run index.html in any browser.
 
 
+Future Improvements:
+1. Add audio pronunciation
+2. Add a dark/light theme toggle
 
