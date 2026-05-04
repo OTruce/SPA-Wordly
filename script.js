@@ -10,6 +10,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const example = document.getElementById("example");
     const synonymsList = document.getElementById("synonymsList");
 
+    //Button
     form.addEventListener("submit", (event) => {
         event.preventDefault();
         const word = input.value.trim();
@@ -22,6 +23,7 @@ document.addEventListener("DOMContentLoaded", () => {
         fetchWordData(word);
     });
 
+    //Link API
     function fetchWordData(word) {
         const url = `https://api.dictionaryapi.dev/api/v2/entries/en/${word}`;
 
